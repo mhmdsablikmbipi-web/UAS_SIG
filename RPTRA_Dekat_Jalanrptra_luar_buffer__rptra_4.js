@@ -1,0 +1,1 @@
+var json_RPTRA_Dekat_Jalanrptra_luar_buffer__rptra_4 = {"type":"FeatureCollection","name":"RPTRA_Dekat_Jalanrptra_luar_buffer__rptra_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
